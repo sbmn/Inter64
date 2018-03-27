@@ -1,9 +1,0 @@
-/.idea/
-/node_modules/
-/build/*
-!/build/patches/
-!/build/winprocess/
-!/build/img/
-!/build/styles/
-!/build/winprocess.node
-/release/
